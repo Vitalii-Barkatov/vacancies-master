@@ -1,0 +1,65 @@
+{
+"BA":[
+ {
+  "Junior": "We are looking for a person with deep theoretical knowledge willing to gain practical experience in agile projects in a close collaboration with the client and the project team. You will ongoingly learn new things and get advice from your mentor and senior colleagues.",
+  "Middle": "We are looking for a person willing to get hands-on experience in pre-sales process, thirsty for working knowledge in the project starts and discovery, and able to jump into an ongoing product development. You will join the team of experienced BAs who are happy to share their experience, best practices and lessons learned.",
+  "Senior": "We are looking for an experienced BA with product mindset who will strengthen our expert community, willing to get involved into the engagements at their earliest stages and to deepen practical knowledge in Travel domain. You will be able to get hands-on experience with product management approaches and techniques."
+ }
+],
+"UX":[
+ {
+  "Junior": "We are looking for a person with deep theoretical knowledge willing to gain practical experience in agile projects in a close collaboration with the client and the project team. You will ongoingly learn new things and get advice from your mentor and senior colleagues.",
+  "Middle": "We are looking for a person willing to get hands-on experience in pre-sales process, thirsty for working knowledge in the project starts and discovery, and able to jump into an ongoing product development. You will join the team of experienced BAs who are happy to share their experience, best practices and lessons learned.",
+  "Senior": "We are looking for an experienced BA with product mindset who will strengthen our expert community, willing to get involved into the engagements at their earliest stages and to deepen practical knowledge in Travel domain. You will be able to get hands-on experience with product management approaches and techniques."
+ }
+],
+"QA Manual":[
+ {
+  "Junior": "We are looking for a Junior QA Engineer who has the base and desire to deep in the processes and technologies of quality assurance. We have assembled a strong team of mentors with extensive experience in manual testing, automation and test management. Horizontal and vertical development plans were developed and approved. So, you will have all the prerequisites for professional growth.",
+  "Middle": "We are looking for a Middle QA Engineer that will strengthen the community and deep in quality assurance processes and technologies. We have a strong team of mentors, with extensive experience in manual testing, automation and test management. So, you will be able to develop and grow professionally on complex projects with modern processes and a minimum of bureaucracy.",
+  "Senior": "We are looking for a Senior QA in the company to strengthen the expert community. You will be involved in team building and development and testing processes. You will have freedom and qualified support in making management decisions. You will be able to develop along the lines of test management and vertically in technical areas."
+ }
+],
+"QA Automation":[
+ {
+  "Junior": "We are looking for a Junior QA Engineer who has the base and desire to deep in the processes and technologies of quality assurance. We have assembled a strong team of mentors with extensive experience in manual testing, automation and test management. Horizontal and vertical development plans were developed and approved. So, you will have all the prerequisites for professional growth.",
+  "Middle": "We are looking for a talented Automation QA Engineer that is not indifferent to quality assurance. You will be able to work with modern technologies and will be able to grow through mentoring by experienced professionals in Java and JS. ",
+  "Senior": "We are looking for a Senior QA in the company to strengthen the expert community. You will be involved in team building and development and testing processes. You will work with CI\/CD, Docker. You will have freedom and qualified support in making management decisions. You will be able to develop along the lines of test management and vertically in technical areas."
+ }
+],
+"PM":[
+ {
+  "Junior": "We are looking for a Junior Project Manager to join a strong professional team. You will be able to work on long-term projects from different domains, acquire knowledge in the most commonly used Agile methodologies and practices, develop under the mentorship of experienced colleagues.\n",
+  "Middle": "We are looking for a Middle Project Manager in the company to strengthen the expert community. You will be able to work on long-term projects from different domains, manage them from the start using best practices. You will have the ability to customize and influence key project processes, to manage risks. You will be working with teams who value the quality engineering approach and build the process taking it into account. You will take part in building the PMO within the company and have a possibility to develop under the mentorship of experienced colleagues.",
+  "Senior": "We are looking for a Middle Project Manager in the company to strengthen the expert community. You will be able to work on long-term projects from different domains, manage them from the start, to take part into presale. You will be working with C-level stakeholders and teams who value the quality engineering approach and build the process taking it into account. You will take  part in building the PMO within the company and have a possibility to develop into delivery management."
+ }
+],
+"DM":[
+ {
+  "Junior": "We are looking for a Junior Delivery Manager who will join a mature team of like-minded people. You will learn to manage project portfolios and contribute to strategic initiatives under the guidance of experienced mentors. You will have the opportunity to understand operational activities and delivery processes in the company, while developing your management and leadership skills.",
+  "Middle": "We are looking for a Middle Delivery Manager who will be part of a mature team of like-minded people. You will manage project portfolios and contribute to strategic initiatives. You will have the freedom and qualified support in making management decisions aimed at growing and developing your project portfolio. You will have the opportunity to influence operational activities and delivery processes in the company.",
+  "Senior": "We are looking for a Senior Delivery Manager who will be part of a mature team of like-minded people. You will manage strategic directions and lead their implementation. You will have full autonomy in making management decisions aimed at growing and developing multiple project portfolios. You will have the opportunity to shape operational activities and delivery processes in the company, as well as to build and lead the PMO organization to implement your strategic vision."
+ }
+],
+"UI":[
+ {
+  "Junior": "We are looking for a UX\/UI Designer to join the AltexSoft design team. We offer work with a variety of products with different scopes and team sizes for our customers. Project scope varies from B2C web services and mobile application to complex SaaS solutions and platforms. You'll be taking part in different activities from requirements of gathering user's research till detailed and modern UI mockups. As a designer you will be involved in collaboration with UX\/UI, BA experts and engineers. An excellent opportunity to generate creative solutions, which are the key to a client's business.",
+  "Middle": "We are looking for a UX\/UI Designer to join the AltexSoft design team. We offer work with a variety of products with different scopes and team sizes for our customers. Project scope varies from B2C web services and mobile application to complex SaaS solutions and platforms. You'll be taking part in different activities, like requirements of elicitation, researches, and then designing from wireframes to final mockups. Present your ideas to stakeholders and developers team, process their feedback. An excellent opportunity to generate creative solutions, which are the key to a client's business.",
+  "Senior": "We are looking for a UX\/UI Designer to join the AltexSoft design team. We offer work with a variety of products with different scopes and team sizes for our customers. Project scope varies from B2C web services and mobile application to complex SaaS solutions and platforms. You'll be establishing design process, eliciting requirements through design techniques and present your ideas to stakeholders and developers team, process their feedback. An excellent opportunity to generate creative solutions, which are the key to a client's business."
+ }
+],
+"Software Engineering":[
+ {
+  "Junior": "We're looking for a curious and highly motivated Junior Software Engineer with deep theoretical knowledge willing to gain practical experience in the team of like-minded people. \nJoining one of our development teams you will collaborate with experienced professionals, participate in code reviews process, write good code, getting the feedbacks. \nIn the free time or between projects you'll have a possibility to master your skills using our internal and prepaid external courses, studying in accordance with your Individual Development Plan, created in collaboration with your mentor.\n",
+  "Middle": "We're looking for a confident Middle Software Engineer who will strengthen one of our development teams where you will participate in making technical decisions, conduct code reviews, make technologies researches, mentor junior colleagues, communicate with the distributed teams, and write good code. \nIn the free time or between projects you'll have a possibility to participate in the creation of POCs or researches lead by our Competency Centers or Experts Community and aimed to experiment with new technologies or business solutions.\nDeveloping your expertise and gathering the experience you'll have a possibility to lead your career path in different ways: dive deeper into technologies, switch to a management branch or even change the career to another.",
+  "Senior": "We're looking for a Senior Software Engineer who is interested in diving deaper in clients business needs, eager to find the best technical solutions solving real-world problems.\nAs a Senior Software Engineer, you'll work closely with our Solutions Architects, Business Analysts, and Domain Experts taking part in client engagement and pre-sales through technical consulting and designing of software solutions that meet business needs.\nStarting new projects, you will coordinate teamwork, participate in making technical decisions and communicate them to client-side teams and stakeholders, conduct code reviews, communicate with the distributed teams. \nAnd, BTW, write code."
+ }
+],
+"Data Science":[
+ {
+  "Junior": "We're looking for a curious and highly motivated Junior Data Scientist with deep theoretical knowledge willing to gain practical experience in the team of like-minded people. \nJoining our Data Science team you will collaborate with experienced professionals, participate in ML experimentation, write good code, getting the feedbacks. \nIn the free time or between projects you'll have a possibility to master your skills using our internal and prepaid external courses, studying in accordance with your Individual Development Plan, created in collaboration with your mentor.\n",
+  "Middle": "We're looking for a confident Middle Data Scientist who will strengthen our Data Science team where you will participate in making algorithmic decisions and experiments, communicate with the development teams, and write a good code. \nIn the free time or between projects you'll have a possibility to participate in the creation of POCs or researches lead by our Competency Centers or Experts Community and aimed to experiment with new technologies or business solutions.\nDeveloping your expertise and gathering the experience you'll have a possibility to lead your career path in different ways: dive deeper into technologies, switch to a management branch or even change the career to another.",
+  "Senior": "We're looking for a Senior Data Scientist who is interested in diving deaper in clients business needs, eager to find the best algorithmic and technical solutions for solving real-world problems.\nAs a Senior Data Scientist, you'll work closely with our Solutions Architects, Business Analysts, and Domain Experts taking part in client engagement and pre-sales through technical consulting and designing of software solutions that meet business needs.\nStarting new projects, you will coordinate teamwork, participate in making algorithmic and technical decisions and communicate them to client-side teams and stakeholders, run research, conduct experiments, mentor junior colleagues, and communicate with the distributed teams. \nAnd, BTW, write some code."
+ }
+]
+}
